@@ -45,4 +45,4 @@
 
 ## License
 
-MIT
+版权所有 © 2026 Lynch，保留所有权利。禁止下载、复制、商用、改编及 AI 抓取与训练，详见 `LICENSE`。昆特牌卡牌名称与规则版权归 CD PROJEKT RED 所有。
